@@ -1,63 +1,76 @@
-# DeQuadraApps
+<div align="center">
 
-<p align="center">
-  <strong>Transformando ideias em aplicativos e sistemas de alta performance.</strong>
-</p>
+<img src="https://dequadraapps.com.br/assets/dequadralogo-hzWJlXcC.png" height="80" alt="DeQuadra Logo" />
 
-<p align="center">
-  <a href="mailto:dequadraapps@gmail.com"><img src="https://img.shields.io/badge/Email-Fale_Conosco-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://dequadraapps-b7439.web.app"><img src="https://img.shields.io/badge/Portfólio-Online-green?style=for-the-badge&logo=firefox" alt="Portfolio"></a>
-</p>
+<br/>
+
+**Soluções Digitais para Empresas**
+
+Sites · Sistemas Web · Aplicativos Mobile
+
+<br/>
+
+[![Website](https://img.shields.io/badge/🌐_dequadraapps.com.br-0A0A0A?style=for-the-badge)](https://dequadraapps.com.br)
+[![QuadraVendas](https://img.shields.io/badge/🛒_QuadraVendas-1a1a2e?style=for-the-badge)](https://quadravendas.com.br)
+[![Email](https://img.shields.io/badge/Email-dequadraapps@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dequadraapps@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-CF001C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_quadra__/)
+
+</div>
 
 ---
 
-## 👋 Bem-vindo(a) ao nosso GitHub!
+### Quem somos
 
-Olá! Nós somos a **DeQuadraApps**, um estúdio de desenvolvimento de software focado em criar soluções digitais sob medida. Nossa paixão é usar a tecnologia para resolver problemas reais, construindo aplicativos móveis e sistemas web que são não apenas funcionais, mas também intuitivos e agradáveis de usar.
+A **DeQuadra** é uma software house com base em **Pato Branco/PR**, fundada com o propósito de transformar ideias em produtos digitais que funcionam de verdade. Desenvolvemos sites, sistemas web e aplicativos mobile para empresas de todo o Brasil, unindo código de qualidade com design orientado à experiência do usuário.
 
-Este espaço é o nosso ateliê digital, onde você pode conhecer um pouco mais sobre nossos projetos e as tecnologias que nos movem.
+Não entregamos só software — entregamos **parceria estratégica** para quem quer crescer no digital.
 
 ---
 
-## 💡 Nossos Projetos em Destaque
-
-Aqui estão alguns dos projetos que tivemos o prazer de desenvolver.
+### 🛠️ Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **Quadra Vendas** | Um aplicativo de gestão de vendas para autônomos e pequenos negócios, permitindo o controle de clientes, vendas e a emissão de comprovantes em PDF. | `Flutter`, `Firebase`, `Dart` |
-<br>
----
-
-## 🛠️ Tecnologias que Dominamos
-
-Temos experiência com um arsenal de tecnologias modernas para garantir que seu projeto seja robusto, escalável e de alta qualidade.
-
-#### Mobile & Frontend
-* **Flutter & Dart:** Nossa principal escolha para criar aplicativos multiplataforma (Android & iOS) bonitos e com performance nativa a partir de um único código-base.
-
-#### Backend
-* **Firebase Functions:** Para criar lógicas de servidor seguras e escaláveis sem gerenciar infraestrutura.
-* **Node.js:** Para a construção de APIs RESTful robustas e eficientes quando um backend mais customizado é necessário.
-
-#### Banco de Dados
-* **Cloud Firestore & Realtime Database:** Bancos de dados NoSQL flexíveis e em tempo real, perfeitos para aplicações modernas e sincronizadas.
-
-#### Cloud & Infraestrutura
-* **Firebase Suite:** Usamos todo o poder do Firebase (Hosting, Authentication, Storage, etc.) para acelerar o desenvolvimento e garantir a escalabilidade.
-* **Google Cloud Platform (GCP):** Para soluções mais complexas que exigem a robustez da infraestrutura do Google.
+|:---|:---|:---|
+| 🛒 **QuadraVendas** | Sistema de gestão de vendas para autônomos e pequenos negócios — controle de clientes, vendas e emissão de comprovantes em PDF. | `Flutter` `Firebase` `Dart` |
 
 ---
 
-## 📫 Fale Conosco!
+### ⚙️ Stack Tecnológica
 
-Você tem uma ideia para um aplicativo ou precisa de um sistema para otimizar seu negócio? Vamos conversar! Estamos sempre abertos a novos desafios e parcerias.
+**Mobile & Frontend**
 
-* 📧 **Envie um e-mail para:** `dequadraapps@gmail.com`
-* 🌐 **Visite nosso Portfólio:** [dequadraapps-b7439.web.app](https://dequadraapps-b7439.web.app)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<br>
+**Backend & Banco de Dados**
 
-<p align="center">
-  <strong>DeQuadraApps - Inovação e código para o seu sucesso.</strong>
-</p>
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Cloud & Infraestrutura**
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FF6F00?style=flat-square&logo=firebase&logoColor=white)
+
+---
+
+### 📫 Vamos conversar?
+
+Tem uma ideia para um aplicativo ou precisa de um sistema para o seu negócio? Entre em contato — estamos prontos para o próximo desafio.
+
+- 📧 **E-mail:** [dequadraapps@gmail.com](mailto:dequadraapps@gmail.com)
+- 🌐 **Site:** [dequadraapps.com.br](https://dequadraapps.com.br)
+
+---
+
+<div align="center">
+
+**DeQuadra — Inovação e código para o seu sucesso.**
+
+</div>

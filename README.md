@@ -13,7 +13,7 @@ Sites · Sistemas Web · Aplicativos Mobile
 [![Website](https://img.shields.io/badge/🌐_dequadraapps.com.br-0A0A0A?style=for-the-badge)](https://dequadraapps.com.br)
 [![QuadraVendas](https://img.shields.io/badge/🛒_QuadraVendas-1a1a2e?style=for-the-badge)](https://quadravendas.com.br)
 [![Email](https://img.shields.io/badge/Email-dequadraapps@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dequadraapps@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-CF001C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitor_quadra__/)
+[![Instagram](https://img.shields.io/badge/Instagram-CF001C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dequadra_/)
 
 </div>
 

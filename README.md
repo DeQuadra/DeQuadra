@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://dequadraapps.com.br/assets/dequadralogo-hzWJlXcC.png" height="80" alt="DeQuadra Logo" />
+<img src="https://dequadra.com.br/icon.png" height="80" alt="DeQuadra Logo" />
 
 <br/>
 
@@ -10,7 +10,7 @@ Sites · Sistemas Web · Aplicativos Mobile
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐_dequadraapps.com.br-0A0A0A?style=for-the-badge)](https://dequadraapps.com.br)
+[![Website](https://img.shields.io/badge/🌐_dequadra.com.br-0A0A0A?style=for-the-badge)](https://dequadra.com.br)
 [![QuadraVendas](https://img.shields.io/badge/🛒_QuadraVendas-1a1a2e?style=for-the-badge)](https://quadravendas.com.br)
 [![Email](https://img.shields.io/badge/Email-dequadraapps@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dequadraapps@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-CF001C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dequadra_/)
@@ -65,7 +65,7 @@ Não entregamos só software — entregamos **parceria estratégica** para quem 
 Tem uma ideia para um aplicativo ou precisa de um sistema para o seu negócio? Entre em contato — estamos prontos para o próximo desafio.
 
 - 📧 **E-mail:** [dequadraapps@gmail.com](mailto:dequadraapps@gmail.com)
-- 🌐 **Site:** [dequadraapps.com.br](https://dequadraapps.com.br)
+- 🌐 **Site:** [dequadra.com.br](https://dequadra.com.br)
 
 ---
 
